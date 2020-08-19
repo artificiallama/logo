@@ -1,7 +1,4 @@
-# logo
-gan of logo
-
-This is a gan of logo.
+# GAN for generation of logos.
 
 This project was part of a course done at https://ai.science/
 
