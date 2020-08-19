@@ -1,6 +1,6 @@
 # GAN for generation of logos.
 
-(A team (three members) project for Aggregate Intellect's workshop in May, 2020).
+A team project for Aggregate Intellect's workshop in May, 2020. The team consisted of three members.
 
 The code of the gan is taken from 
 https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/dcgan/dcgan.py
