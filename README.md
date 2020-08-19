@@ -1,6 +1,6 @@
 # GAN for generation of logos.
 
-This project was part of a course done at https://ai.science/
+(A team (three members) project for Aggregate Intellect's workshop in May, 2020).
 
 The code of the gan is taken from 
 https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/dcgan/dcgan.py
@@ -22,3 +22,4 @@ After the training of the gan, we train an encoder for the gan to learn an encod
 
 The code for the deployement (mlflow packaging, flask api and dockerfile are mostly inspired by the course material)
 
+https://www.youtube.com/watch?v=KCaFGCVnFfA
