@@ -10,9 +10,10 @@ For the dataset, we used the large logo dataset
 https://data.vision.ee.ethz.ch/sagea/lld/
 and used the icon dataset(i.e. image 32x32) and used only one of the cluster.
 
-This is project is part of the 
+<!-- This is project is part of the 
 
 The project wsd done with Vikram Khade (https://github.com/Gigajumper) and Adrian Perez Galvan (https://github.com/greenmossball).
+
 
 To train the model run dcgan.py script
 
@@ -23,3 +24,5 @@ After the training of the gan, we train an encoder for the gan to learn an encod
 The code for the deployement (mlflow packaging, flask api and dockerfile are mostly inspired by the course material)
 
 https://www.youtube.com/watch?v=KCaFGCVnFfA
+
+-->
