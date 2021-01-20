@@ -6,11 +6,13 @@ The code of the gan is taken from
 https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/dcgan/dcgan.py
 and then modified
 
+<!--
+
 For the dataset, we used the large logo dataset
 https://data.vision.ee.ethz.ch/sagea/lld/
 and used the icon dataset(i.e. image 32x32) and used only one of the cluster.
 
-<!-- This is project is part of the 
+This is project is part of the 
 
 The project wsd done with Vikram Khade (https://github.com/Gigajumper) and Adrian Perez Galvan (https://github.com/greenmossball).
 
